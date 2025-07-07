@@ -14,6 +14,6 @@ pip install beautifulsoup4
 
 ## 🚀 Étapes d’utilisation
 
-Uploader le fichier .docx dans votre environnement (Colab ou local).
-Lancer le script word_to_json.py.
-Récupérer le fichier output.json.
+Uploader le fichier .docx dans votre environnement (Colab ou local)
+Lancer le script word_to_json.py
+Récupérer le fichier output.json
