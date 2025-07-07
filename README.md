@@ -11,3 +11,10 @@ Ce projet vous permet de convertir un document Microsoft Word (`.docx`) en un fi
 
 pip install aspose-words
 pip install beautifulsoup4
+
+🚀 Étapes d’utilisation
+Uploader le fichier .docx dans votre environnement (Colab ou local).
+
+Lancer le script word_to_json.py.
+
+Récupérer le fichier output.json.
